@@ -1,2 +1,2 @@
-# android-helloworld-rubmotion
+# android-helloworld-rubymotion
 Sample Android hello world app using ruby motion
